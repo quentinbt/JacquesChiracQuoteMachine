@@ -10,5 +10,5 @@ $("#getMessage").on("click", function(){
   $( "quote" )
     .text(data.value.joke );
   $( ".message" )
-    .html('<a class="btn btn-danger" href="https://twitter.com/intent/tweet?text='+data.value.joke+'">Tweet it!</a>' );
+    .html('<a class="btn btn-danger" target="blank" href="https://twitter.com/intent/tweet?text='+data.value.joke+'">Tweet it!</a>' );
 }, "json" )});
