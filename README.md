@@ -1,5 +1,5 @@
-# superDupeUpperCALCULATOR
-This an awesome calculator
+# JacquesChiracQuoteMachine
+This is an awesome random quote machine starring Jacques Chirac
 
 ## Getting Started
 
